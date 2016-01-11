@@ -14,13 +14,14 @@ collections:
       number: 10
 color:
   saturation: 0.5726112
-  brandStrength: 0
-  rhythmicContrast: 0.8333869
+  brandStrength: 1
+  lightness: 0
   brandColors:
-    - '#0F0F15'
-    - '#2F3843'
-    - '#919191'
-  lightness: 0.4935553
+    - '#A5A19B'
+    - '#6F757F'
+    - '#424B5C'
+    - '#0E0E15'
+  rhythmicContrast: 0.8333869
 cta:
   bucket: null
   version: null
@@ -36,4 +37,4 @@ opengraph:
   type: null
   appId: null
 typography_spectrum: 0.3549946
-layout_spectrum: 0.5612245
+layout_spectrum: 0
