@@ -1,5 +1,8 @@
+name: Isabella Ahlin
+favicon: null
+layout_spectrum: 0.5300752
+typography_spectrum: 0.3549946
 title: Isabella Ahlin
-purpose: []
 collections:
   - index:
       path: /
@@ -12,28 +15,25 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-color:
-  saturation: 0.5726112
-  brandStrength: 1
-  lightness: 0.4935553
-  brandColors:
-    - '#0F0F15'
-    - '#2F3843'
-    - '#919191'
-  rhythmicContrast: 0.8333869
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
 analytics:
-  twitter: null
   google: null
   facebook: null
-name: Isabella Ahlin
-favicon: null
+  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.3549946
-layout_spectrum: 0.5300752
+color:
+  brandColors:
+    - '#0F0F15'
+    - '#2F3843'
+    - '#919191'
+  brandStrength: 1
+  lightness: 0.4935553
+  saturation: 0.5726112
+  rhythmicContrast: 0.8333869
+purpose: []
