@@ -1,39 +1,39 @@
-analytics:
-  twitter: null
-  google: UA-64586168-2
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+title: Isabella Ahlin
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.5300752
-title: Isabella Ahlin
-cta:
-  bucket: null
-  version: null
-  domain: null
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.5726112
-  brandStrength: 1
-  rhythmicContrast: 0.8333869
+  brandStrength: 0
+  lightness: 0.4935553
   brandColors:
     - '#0F0F15'
     - '#2F3843'
     - '#919191'
-  lightness: 0.4935553
-purpose: []
+  rhythmicContrast: 0.8333869
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: UA-64586168-2
+  facebook: null
 favicon: null
 name: Isabella Ahlin
+opengraph:
+  image: null
+  type: null
+  appId: null
 typography_spectrum: 0.3549946
+layout_spectrum: 0.5300752
