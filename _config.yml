@@ -14,8 +14,8 @@ collections:
       number: 10
 color:
   saturation: 0.5726112
-  brandStrength: 1
   lightness: 0
+  brandStrength: 0
   brandColors:
     - '#A5A19B'
     - '#6F757F'
@@ -30,8 +30,8 @@ analytics:
   twitter: null
   google: UA-64586168-2
   facebook: null
-favicon: null
 name: Isabella Ahlin
+favicon: null
 opengraph:
   image: null
   type: null
