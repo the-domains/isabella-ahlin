@@ -6,22 +6,22 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.5726112
-  lightness: 0
   brandStrength: 0
+  rhythmicContrast: 0.8333869
   brandColors:
     - '#A5A19B'
     - '#6F757F'
     - '#424B5C'
     - '#0E0E15'
-  rhythmicContrast: 0.8333869
+  lightness: 0
 cta:
   bucket: null
   version: null
@@ -30,11 +30,11 @@ analytics:
   twitter: null
   google: UA-64586168-2
   facebook: null
-name: Isabella Ahlin
 favicon: null
+name: Isabella Ahlin
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 1
-layout_spectrum: 0
+layout_spectrum: 1
